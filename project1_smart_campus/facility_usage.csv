@@ -1,0 +1,651 @@
+Record_ID,Facility,Day,Time,Department,Students,Previous_Usage,Capacity,Demand_Level
+1,Seminar Hall,Friday,4 PM,CIVIL,75,81,150,Medium
+2,Classroom,Thursday,11 AM,CSE,38,30,80,Medium
+3,Classroom,Saturday,9 AM,IT,35,8,80,Medium
+4,Classroom,Saturday,11 AM,IT,10,7,80,Medium
+5,Computer Lab,Friday,9 AM,CIVIL,51,25,200,Low
+6,Computer Lab,Friday,12 PM,MBA,47,14,200,Medium
+7,Seminar Hall,Saturday,1 PM,CIVIL,145,165,150,High
+8,Canteen,Tuesday,5 PM,MECH,25,47,500,Low
+9,Library,Thursday,10 AM,MECH,298,320,400,High
+10,Wifi Zone,Monday,12 PM,ECE,36,6,600,Low
+11,Wifi Zone,Thursday,3 PM,CSE,299,304,600,Medium
+12,Canteen,Wednesday,10 AM,MECH,335,364,500,Medium
+13,Library,Tuesday,12 PM,MBA,35,64,400,High
+14,Computer Lab,Saturday,5 PM,ECE,67,32,200,Low
+15,Wifi Zone,Tuesday,3 PM,MBA,206,222,600,Low
+16,Computer Lab,Monday,1 PM,IT,138,166,200,Medium
+17,Seminar Hall,Friday,10 AM,CSE,93,96,150,Medium
+18,Library,Friday,2 PM,MECH,298,319,400,High
+19,Computer Lab,Friday,12 PM,CSE,86,69,200,Medium
+20,Seminar Hall,Tuesday,4 PM,IT,27,8,150,Low
+21,Computer Lab,Wednesday,12 PM,IT,41,47,200,Low
+22,Wifi Zone,Friday,12 PM,MBA,208,177,600,Low
+23,Seminar Hall,Monday,10 AM,CSE,79,44,150,Medium
+24,Computer Lab,Saturday,3 PM,MECH,63,31,200,Low
+25,Computer Lab,Saturday,10 AM,ECE,129,98,200,Medium
+26,Classroom,Friday,10 AM,MECH,53,57,80,Medium
+27,Library,Wednesday,3 PM,CIVIL,73,96,400,High
+28,Canteen,Friday,11 AM,CSE,195,208,500,Low
+29,Canteen,Saturday,5 PM,IT,81,107,500,Low
+30,Seminar Hall,Wednesday,1 PM,CSE,77,98,150,Medium
+31,Wifi Zone,Wednesday,2 PM,ECE,337,358,600,Medium
+32,Canteen,Saturday,9 AM,MBA,76,63,500,Low
+33,Wifi Zone,Thursday,10 AM,CIVIL,315,282,600,Medium
+34,Classroom,Saturday,3 PM,CIVIL,47,76,80,Medium
+35,Library,Monday,10 AM,MECH,306,294,400,High
+36,Wifi Zone,Saturday,4 PM,CIVIL,246,207,600,Medium
+37,Classroom,Monday,1 PM,IT,45,14,80,Low
+38,Seminar Hall,Friday,4 PM,MECH,11,14,150,Low
+39,Classroom,Tuesday,5 PM,ECE,31,5,80,Low
+40,Computer Lab,Wednesday,3 PM,MBA,42,47,200,Low
+41,Computer Lab,Tuesday,3 PM,ECE,84,74,200,Medium
+42,Computer Lab,Thursday,2 PM,CSE,191,213,200,High
+43,Canteen,Tuesday,10 AM,CIVIL,370,365,500,High
+44,Seminar Hall,Thursday,5 PM,CIVIL,50,23,150,Low
+45,Library,Wednesday,9 AM,MBA,191,186,400,Medium
+46,Canteen,Saturday,9 AM,MBA,79,58,500,Low
+47,Library,Wednesday,12 PM,ECE,213,237,400,Medium
+48,Library,Thursday,10 AM,MBA,337,320,400,High
+49,Wifi Zone,Tuesday,12 PM,CIVIL,141,149,600,Low
+50,Seminar Hall,Friday,9 AM,ECE,38,34,150,Low
+51,Classroom,Saturday,5 PM,IT,20,0,80,Low
+52,Wifi Zone,Tuesday,10 AM,CIVIL,498,512,600,High
+53,Computer Lab,Saturday,9 AM,CIVIL,80,46,200,Medium
+54,Canteen,Thursday,2 PM,MBA,302,320,500,Medium
+55,Wifi Zone,Saturday,10 AM,ECE,424,405,600,High
+56,Canteen,Friday,2 PM,MECH,482,510,500,High
+57,Library,Monday,4 PM,MECH,150,127,400,Low
+58,Seminar Hall,Monday,12 PM,CSE,64,90,150,Medium
+59,Canteen,Saturday,11 AM,CIVIL,86,50,500,Low
+60,Classroom,Saturday,4 PM,CIVIL,47,66,80,Medium
+61,Seminar Hall,Friday,5 PM,MECH,81,90,150,Medium
+62,Classroom,Wednesday,1 PM,MBA,64,68,80,High
+63,Computer Lab,Friday,5 PM,MECH,83,50,200,Medium
+64,Classroom,Monday,5 PM,CSE,48,30,80,Low
+65,Classroom,Thursday,5 PM,IT,17,7,80,Low
+66,Library,Friday,4 PM,CIVIL,214,193,400,Medium
+67,Seminar Hall,Thursday,11 AM,MECH,65,35,150,Medium
+68,Library,Tuesday,3 PM,IT,17,14,400,Low
+69,Library,Monday,12 PM,ECE,68,97,400,Low
+70,Canteen,Saturday,2 PM,ECE,408,375,500,High
+71,Wifi Zone,Friday,10 AM,IT,428,433,600,High
+72,Seminar Hall,Monday,3 PM,MBA,62,25,150,Medium
+73,Classroom,Tuesday,5 PM,MBA,23,11,80,Low
+74,Classroom,Friday,11 AM,ECE,32,39,80,Medium
+75,Canteen,Tuesday,12 PM,ECE,59,72,500,Low
+76,Computer Lab,Saturday,10 AM,MECH,149,167,200,High
+77,Seminar Hall,Friday,11 AM,ECE,61,89,150,Medium
+78,Classroom,Saturday,2 PM,MECH,47,13,80,Medium
+79,Canteen,Friday,12 PM,CSE,256,273,500,High
+80,Computer Lab,Tuesday,11 AM,CSE,36,44,200,Low
+81,Canteen,Saturday,10 AM,IT,265,278,500,Medium
+82,Seminar Hall,Monday,10 AM,MECH,125,96,150,High
+83,Canteen,Thursday,12 PM,IT,201,230,500,Medium
+84,Library,Tuesday,11 AM,CIVIL,126,110,400,Low
+85,Seminar Hall,Tuesday,11 AM,CSE,75,104,150,Medium
+86,Library,Saturday,3 PM,IT,163,169,400,Medium
+87,Canteen,Wednesday,1 PM,CSE,440,450,500,High
+88,Seminar Hall,Tuesday,2 PM,IT,122,97,150,High
+89,Seminar Hall,Tuesday,11 AM,CSE,53,45,150,Low
+90,Library,Wednesday,9 AM,ECE,79,71,400,Low
+91,Wifi Zone,Thursday,11 AM,IT,49,30,600,Low
+92,Seminar Hall,Saturday,12 PM,MBA,25,5,150,Low
+93,Library,Monday,10 AM,MBA,260,258,400,Medium
+94,Classroom,Monday,12 PM,MBA,34,63,80,Medium
+95,Canteen,Wednesday,2 PM,IT,388,353,500,High
+96,Classroom,Friday,10 AM,MBA,68,89,80,High
+97,Wifi Zone,Monday,3 PM,ECE,207,177,600,Low
+98,Seminar Hall,Friday,9 AM,CIVIL,73,50,150,Medium
+99,Seminar Hall,Friday,1 PM,MECH,142,136,150,High
+100,Canteen,Friday,1 PM,MBA,433,426,500,Low
+101,Classroom,Monday,11 AM,CIVIL,34,58,80,Medium
+102,Wifi Zone,Thursday,9 AM,IT,173,194,600,Low
+103,Computer Lab,Thursday,4 PM,MECH,106,105,200,Low
+104,Wifi Zone,Thursday,11 AM,ECE,319,335,600,High
+105,Seminar Hall,Monday,12 PM,CSE,55,18,150,Low
+106,Canteen,Thursday,11 AM,MBA,223,195,500,Medium
+107,Wifi Zone,Friday,3 PM,MECH,281,294,600,Medium
+108,Wifi Zone,Tuesday,12 PM,CIVIL,68,34,600,Low
+109,Classroom,Friday,2 PM,MECH,57,63,80,High
+110,Computer Lab,Tuesday,12 PM,IT,93,98,200,Medium
+111,Library,Saturday,9 AM,CSE,79,76,400,Low
+112,Classroom,Monday,10 AM,ECE,74,69,80,High
+113,Library,Saturday,11 AM,IT,70,53,400,Low
+114,Canteen,Tuesday,2 PM,MECH,376,389,500,High
+115,Library,Monday,4 PM,IT,224,227,400,Medium
+116,Wifi Zone,Wednesday,3 PM,ECE,198,209,600,Low
+117,Classroom,Wednesday,1 PM,IT,51,27,80,Medium
+118,Classroom,Monday,4 PM,MECH,15,7,80,Low
+119,Classroom,Thursday,4 PM,MECH,10,31,80,Low
+120,Wifi Zone,Friday,10 AM,MBA,455,422,600,High
+121,Wifi Zone,Wednesday,1 PM,ECE,412,397,600,Medium
+122,Canteen,Wednesday,10 AM,MECH,431,405,500,High
+123,Wifi Zone,Wednesday,4 PM,IT,166,138,600,Low
+124,Seminar Hall,Saturday,5 PM,ECE,20,4,150,Low
+125,Library,Wednesday,3 PM,IT,109,115,400,Low
+126,Canteen,Thursday,5 PM,ECE,298,306,500,Medium
+127,Seminar Hall,Wednesday,9 AM,ECE,76,99,150,Medium
+128,Classroom,Wednesday,9 AM,MBA,37,59,80,Medium
+129,Canteen,Friday,10 AM,MECH,270,265,500,Medium
+130,Canteen,Monday,9 AM,MBA,83,101,500,Low
+131,Wifi Zone,Thursday,12 PM,MBA,122,90,600,Low
+132,Classroom,Wednesday,4 PM,CIVIL,32,19,80,Medium
+133,Canteen,Saturday,11 AM,CIVIL,259,221,500,Medium
+134,Library,Saturday,9 AM,CIVIL,203,189,400,Medium
+135,Seminar Hall,Monday,4 PM,IT,13,16,150,Low
+136,Library,Thursday,3 PM,ECE,72,82,400,Low
+137,Seminar Hall,Saturday,11 AM,MECH,36,17,150,Low
+138,Canteen,Wednesday,9 AM,CIVIL,167,183,500,Low
+139,Computer Lab,Tuesday,9 AM,CIVIL,12,6,200,Low
+140,Computer Lab,Tuesday,2 PM,ECE,175,175,200,High
+141,Seminar Hall,Friday,5 PM,ECE,66,73,150,Medium
+142,Seminar Hall,Tuesday,1 PM,MBA,145,105,150,High
+143,Canteen,Thursday,3 PM,MECH,290,309,500,Medium
+144,Computer Lab,Thursday,9 AM,ECE,27,8,200,Low
+145,Classroom,Wednesday,9 AM,MBA,25,54,80,Low
+146,Canteen,Thursday,12 PM,MBA,225,235,500,Medium
+147,Canteen,Tuesday,1 PM,IT,283,279,500,Medium
+148,Library,Tuesday,11 AM,CSE,62,73,400,Low
+149,Library,Wednesday,1 PM,IT,383,346,400,High
+150,Seminar Hall,Saturday,4 PM,CSE,85,46,150,Medium
+151,Canteen,Monday,12 PM,CIVIL,108,127,500,Low
+152,Seminar Hall,Tuesday,9 AM,IT,62,25,150,Medium
+153,Canteen,Wednesday,1 PM,CIVIL,269,260,500,Medium
+154,Wifi Zone,Saturday,10 AM,MECH,338,351,600,Medium
+155,Seminar Hall,Saturday,4 PM,MBA,25,5,150,Low
+156,Wifi Zone,Saturday,4 PM,ECE,160,176,600,Low
+157,Library,Saturday,12 PM,IT,48,41,400,Low
+158,Classroom,Saturday,1 PM,MECH,65,84,80,High
+159,Computer Lab,Thursday,10 AM,MECH,139,134,200,Medium
+160,Wifi Zone,Saturday,2 PM,CIVIL,495,514,600,High
+161,Classroom,Monday,11 AM,MBA,21,28,80,Low
+162,Library,Thursday,10 AM,CSE,258,284,400,Medium
+163,Library,Thursday,3 PM,CSE,97,73,400,Low
+164,Computer Lab,Saturday,12 PM,ECE,115,96,200,Medium
+165,Seminar Hall,Friday,9 AM,MBA,61,51,150,Medium
+166,Computer Lab,Saturday,5 PM,CSE,43,31,200,Low
+167,Canteen,Saturday,4 PM,CSE,295,277,500,Medium
+168,Canteen,Wednesday,10 AM,IT,432,442,500,High
+169,Classroom,Wednesday,5 PM,ECE,32,9,80,Medium
+170,Computer Lab,Friday,12 PM,IT,13,18,200,Low
+171,Computer Lab,Tuesday,4 PM,IT,63,51,200,Low
+172,Canteen,Wednesday,4 PM,CSE,241,254,500,Medium
+173,Classroom,Friday,5 PM,IT,14,11,80,Low
+174,Wifi Zone,Wednesday,11 AM,CSE,11,5,600,Low
+175,Canteen,Tuesday,2 PM,ECE,297,257,500,Medium
+176,Seminar Hall,Monday,3 PM,ECE,27,18,150,Low
+177,Wifi Zone,Thursday,9 AM,ECE,112,90,600,Low
+178,Computer Lab,Friday,3 PM,CSE,82,61,200,Medium
+179,Classroom,Tuesday,1 PM,ECE,76,64,80,Low
+180,Wifi Zone,Saturday,11 AM,CIVIL,264,281,600,Medium
+181,Seminar Hall,Friday,3 PM,MECH,72,43,150,Medium
+182,Wifi Zone,Thursday,3 PM,CSE,299,315,600,Medium
+183,Classroom,Wednesday,5 PM,IT,37,14,80,Medium
+184,Canteen,Monday,1 PM,MBA,407,382,500,High
+185,Classroom,Wednesday,1 PM,IT,44,43,80,Medium
+186,Seminar Hall,Tuesday,5 PM,CIVIL,16,8,150,Low
+187,Computer Lab,Friday,1 PM,MBA,150,150,200,High
+188,Wifi Zone,Saturday,2 PM,IT,515,524,600,High
+189,Wifi Zone,Thursday,10 AM,CSE,350,314,600,Medium
+190,Library,Friday,4 PM,CSE,85,84,400,Low
+191,Library,Wednesday,11 AM,CSE,122,95,400,Low
+192,Seminar Hall,Tuesday,2 PM,MBA,149,150,150,Low
+193,Seminar Hall,Wednesday,1 PM,MECH,138,150,150,High
+194,Seminar Hall,Tuesday,12 PM,MECH,17,22,150,Low
+195,Canteen,Thursday,9 AM,ECE,296,301,500,Medium
+196,Computer Lab,Tuesday,9 AM,MBA,23,14,200,Low
+197,Canteen,Wednesday,3 PM,MBA,79,67,500,Low
+198,Seminar Hall,Thursday,10 AM,ECE,103,94,150,Medium
+199,Wifi Zone,Tuesday,1 PM,ECE,420,386,600,High
+200,Canteen,Wednesday,5 PM,CSE,274,275,500,Medium
+201,Computer Lab,Saturday,12 PM,MECH,26,45,200,Low
+202,Library,Thursday,5 PM,CSE,145,170,400,High
+203,Classroom,Wednesday,3 PM,IT,15,24,80,Low
+204,Computer Lab,Tuesday,11 AM,MECH,103,63,200,Low
+205,Library,Friday,4 PM,IT,108,138,400,Low
+206,Seminar Hall,Monday,11 AM,CSE,81,65,150,Medium
+207,Seminar Hall,Monday,5 PM,MECH,74,38,150,Medium
+208,Classroom,Tuesday,11 AM,CSE,48,23,80,Medium
+209,Seminar Hall,Friday,1 PM,MBA,105,102,150,High
+210,Computer Lab,Friday,4 PM,MECH,14,19,200,Low
+211,Wifi Zone,Monday,4 PM,ECE,176,187,600,Low
+212,Classroom,Thursday,3 PM,IT,38,35,80,Medium
+213,Library,Monday,10 AM,ECE,345,306,400,High
+214,Wifi Zone,Tuesday,11 AM,CSE,169,145,600,High
+215,Classroom,Saturday,5 PM,MECH,47,14,80,Medium
+216,Classroom,Tuesday,3 PM,MECH,25,35,80,Low
+217,Wifi Zone,Friday,4 PM,CSE,171,149,600,Low
+218,Wifi Zone,Tuesday,9 AM,ECE,260,273,600,Medium
+219,Seminar Hall,Friday,9 AM,CSE,40,18,150,Low
+220,Computer Lab,Monday,3 PM,IT,48,18,200,Low
+221,Library,Monday,12 PM,MECH,74,89,400,Low
+222,Computer Lab,Thursday,4 PM,CSE,39,23,200,Low
+223,Classroom,Tuesday,9 AM,ECE,35,58,80,Medium
+224,Classroom,Saturday,11 AM,CIVIL,35,38,80,Medium
+225,Library,Tuesday,3 PM,MECH,73,80,400,Low
+226,Computer Lab,Thursday,12 PM,CIVIL,37,8,200,Low
+227,Seminar Hall,Thursday,4 PM,MBA,33,1,150,Low
+228,Seminar Hall,Thursday,10 AM,CSE,110,94,150,High
+229,Classroom,Monday,5 PM,ECE,26,17,80,Low
+230,Wifi Zone,Saturday,12 PM,MECH,62,46,600,High
+231,Computer Lab,Tuesday,10 AM,CSE,141,122,200,High
+232,Seminar Hall,Wednesday,1 PM,IT,82,74,150,Medium
+233,Computer Lab,Thursday,9 AM,ECE,29,9,200,High
+234,Seminar Hall,Thursday,4 PM,IT,27,13,150,Low
+235,Seminar Hall,Saturday,3 PM,ECE,36,31,150,Low
+236,Seminar Hall,Thursday,11 AM,CIVIL,76,61,150,Medium
+237,Canteen,Wednesday,2 PM,IT,305,318,500,Low
+238,Wifi Zone,Saturday,4 PM,IT,15,7,600,Low
+239,Library,Tuesday,5 PM,MBA,100,115,400,Low
+240,Canteen,Tuesday,1 PM,CSE,454,430,500,High
+241,Seminar Hall,Monday,4 PM,CIVIL,52,46,150,Low
+242,Canteen,Tuesday,11 AM,CIVIL,113,83,500,Low
+243,Canteen,Saturday,12 PM,IT,57,44,500,Low
+244,Computer Lab,Thursday,1 PM,MBA,170,161,200,High
+245,Library,Thursday,10 AM,MECH,216,195,400,Medium
+246,Seminar Hall,Thursday,1 PM,CIVIL,116,114,150,High
+247,Library,Wednesday,2 PM,MECH,344,336,400,High
+248,Wifi Zone,Tuesday,4 PM,CIVIL,325,312,600,Medium
+249,Canteen,Monday,12 PM,CSE,34,18,500,Low
+250,Library,Wednesday,10 AM,CIVIL,315,297,400,High
+251,Seminar Hall,Monday,11 AM,MBA,74,70,150,Medium
+252,Canteen,Thursday,9 AM,ECE,108,104,500,Low
+253,Wifi Zone,Tuesday,12 PM,IT,10,17,600,High
+254,Wifi Zone,Friday,10 AM,IT,587,575,600,High
+255,Library,Monday,2 PM,MBA,253,233,400,Medium
+256,Computer Lab,Tuesday,11 AM,MECH,89,57,200,Medium
+257,Canteen,Wednesday,3 PM,MECH,197,159,500,Low
+258,Wifi Zone,Tuesday,2 PM,MECH,391,356,600,Medium
+259,Library,Monday,10 AM,MBA,279,295,400,Medium
+260,Classroom,Saturday,4 PM,CSE,20,20,80,High
+261,Seminar Hall,Friday,3 PM,MECH,42,25,150,Low
+262,Canteen,Tuesday,2 PM,ECE,465,479,500,High
+263,Seminar Hall,Saturday,11 AM,IT,44,54,150,Low
+264,Seminar Hall,Friday,1 PM,ECE,98,127,150,Medium
+265,Wifi Zone,Tuesday,1 PM,MBA,438,415,600,High
+266,Wifi Zone,Thursday,3 PM,MBA,81,105,600,Low
+267,Library,Monday,12 PM,MECH,101,63,400,Low
+268,Library,Thursday,2 PM,CSE,338,307,400,High
+269,Library,Wednesday,4 PM,MBA,82,84,400,Low
+270,Classroom,Thursday,11 AM,IT,34,37,80,Medium
+271,Computer Lab,Thursday,11 AM,CSE,81,79,200,Medium
+272,Seminar Hall,Monday,11 AM,MECH,12,8,150,Low
+273,Computer Lab,Wednesday,3 PM,MECH,51,52,200,Low
+274,Computer Lab,Wednesday,5 PM,MECH,81,105,200,Medium
+275,Library,Wednesday,10 AM,CSE,246,233,400,Medium
+276,Computer Lab,Thursday,4 PM,CSE,63,49,200,Low
+277,Seminar Hall,Friday,9 AM,ECE,80,78,150,Medium
+278,Canteen,Tuesday,4 PM,IT,34,42,500,Low
+279,Computer Lab,Friday,10 AM,MBA,109,105,200,Medium
+280,Classroom,Wednesday,10 AM,IT,69,98,80,High
+281,Library,Wednesday,9 AM,IT,77,76,400,Low
+282,Wifi Zone,Thursday,3 PM,MECH,282,300,600,Medium
+283,Seminar Hall,Thursday,3 PM,MECH,89,116,150,Low
+284,Computer Lab,Wednesday,3 PM,MBA,57,23,200,Low
+285,Canteen,Saturday,4 PM,MECH,169,164,500,Low
+286,Wifi Zone,Wednesday,10 AM,MECH,471,474,600,High
+287,Computer Lab,Monday,11 AM,IT,48,52,200,Low
+288,Library,Tuesday,11 AM,MECH,99,106,400,Low
+289,Library,Thursday,5 PM,CSE,113,131,400,Low
+290,Classroom,Tuesday,9 AM,ECE,30,52,80,Low
+291,Library,Friday,2 PM,CIVIL,321,323,400,High
+292,Wifi Zone,Tuesday,1 PM,CSE,499,488,600,High
+293,Canteen,Friday,9 AM,ECE,203,226,500,Medium
+294,Classroom,Wednesday,4 PM,MBA,37,3,80,Medium
+295,Library,Monday,4 PM,CIVIL,180,151,400,Medium
+296,Seminar Hall,Friday,12 PM,CIVIL,86,47,150,Medium
+297,Classroom,Monday,5 PM,MBA,38,11,80,Medium
+298,Library,Friday,9 AM,MECH,48,10,400,Low
+299,Canteen,Saturday,2 PM,ECE,438,408,500,High
+300,Seminar Hall,Monday,11 AM,CIVIL,24,25,150,Low
+301,Wifi Zone,Tuesday,10 AM,CSE,561,559,600,High
+302,Library,Tuesday,9 AM,MBA,97,95,400,Low
+303,Canteen,Thursday,12 PM,IT,17,11,500,Low
+304,Wifi Zone,Tuesday,10 AM,CSE,584,558,600,High
+305,Seminar Hall,Tuesday,10 AM,CIVIL,82,42,150,Medium
+306,Library,Tuesday,2 PM,ECE,225,213,400,High
+307,Computer Lab,Wednesday,10 AM,CIVIL,123,104,200,High
+308,Seminar Hall,Monday,10 AM,MBA,101,63,150,Medium
+309,Wifi Zone,Tuesday,5 PM,MBA,230,212,600,High
+310,Wifi Zone,Wednesday,1 PM,MBA,406,410,600,Medium
+311,Computer Lab,Tuesday,4 PM,CSE,26,21,200,Low
+312,Canteen,Friday,2 PM,MECH,300,329,500,Medium
+313,Wifi Zone,Tuesday,2 PM,MECH,509,514,600,High
+314,Wifi Zone,Wednesday,3 PM,MECH,323,301,600,Medium
+315,Computer Lab,Friday,10 AM,CSE,144,109,200,High
+316,Computer Lab,Thursday,10 AM,MECH,115,109,200,Medium
+317,Library,Saturday,4 PM,ECE,132,113,400,Low
+318,Seminar Hall,Friday,12 PM,CIVIL,18,2,150,Low
+319,Canteen,Friday,4 PM,MBA,147,140,500,Low
+320,Library,Saturday,12 PM,CSE,115,98,400,Low
+321,Canteen,Thursday,3 PM,MECH,184,201,500,Low
+322,Classroom,Monday,5 PM,MBA,16,11,80,Low
+323,Canteen,Monday,2 PM,CSE,435,421,500,High
+324,Library,Saturday,11 AM,CIVIL,28,12,400,Low
+325,Classroom,Wednesday,4 PM,MBA,48,71,80,Medium
+326,Library,Thursday,3 PM,ECE,176,137,400,Medium
+327,Library,Monday,4 PM,MBA,112,115,400,Low
+328,Classroom,Tuesday,4 PM,MECH,19,17,80,Low
+329,Library,Monday,11 AM,MBA,188,186,400,Medium
+330,Wifi Zone,Thursday,10 AM,CIVIL,539,550,600,Medium
+331,Library,Monday,2 PM,CIVIL,337,299,400,High
+332,Library,Wednesday,5 PM,IT,41,63,400,Low
+333,Computer Lab,Saturday,10 AM,IT,165,156,200,High
+334,Computer Lab,Tuesday,3 PM,CIVIL,16,19,200,Low
+335,Computer Lab,Friday,10 AM,CIVIL,117,134,200,Medium
+336,Classroom,Tuesday,11 AM,IT,43,51,80,Medium
+337,Classroom,Saturday,10 AM,CIVIL,40,41,80,Medium
+338,Library,Saturday,3 PM,ECE,85,48,400,Low
+339,Seminar Hall,Monday,4 PM,MECH,79,104,150,Medium
+340,Canteen,Monday,12 PM,MECH,284,300,500,Medium
+341,Seminar Hall,Wednesday,4 PM,ECE,81,94,150,Medium
+342,Classroom,Monday,3 PM,MBA,29,25,80,Low
+343,Canteen,Tuesday,2 PM,CSE,359,328,500,High
+344,Wifi Zone,Thursday,2 PM,CIVIL,359,383,600,Medium
+345,Classroom,Monday,11 AM,IT,34,15,80,Medium
+346,Computer Lab,Saturday,10 AM,MBA,147,173,200,High
+347,Seminar Hall,Tuesday,5 PM,MBA,77,45,150,Medium
+348,Canteen,Thursday,10 AM,CSE,426,411,500,High
+349,Canteen,Friday,2 PM,MECH,303,326,500,Medium
+350,Seminar Hall,Monday,5 PM,MECH,16,35,150,Low
+351,Classroom,Wednesday,3 PM,MBA,33,12,80,Medium
+352,Classroom,Saturday,10 AM,CSE,65,67,80,High
+353,Canteen,Monday,2 PM,ECE,459,470,500,High
+354,Wifi Zone,Wednesday,9 AM,CIVIL,34,14,600,Low
+355,Classroom,Tuesday,2 PM,MBA,41,44,80,Medium
+356,Library,Saturday,4 PM,CIVIL,95,116,400,Low
+357,Library,Thursday,11 AM,CIVIL,203,176,400,Medium
+358,Library,Thursday,2 PM,MBA,386,407,400,High
+359,Canteen,Saturday,5 PM,MBA,67,82,500,Low
+360,Wifi Zone,Saturday,5 PM,CSE,118,136,600,Low
+361,Classroom,Tuesday,10 AM,ECE,57,27,80,High
+362,Seminar Hall,Thursday,12 PM,MBA,73,40,150,Medium
+363,Seminar Hall,Friday,4 PM,CSE,80,89,150,Medium
+364,Canteen,Tuesday,9 AM,MECH,93,79,500,Low
+365,Classroom,Saturday,3 PM,CIVIL,46,17,80,Medium
+366,Classroom,Tuesday,4 PM,MBA,35,24,80,Medium
+367,Seminar Hall,Tuesday,1 PM,MECH,127,152,150,High
+368,Library,Wednesday,3 PM,ECE,193,196,400,Medium
+369,Classroom,Monday,5 PM,ECE,36,19,80,Medium
+370,Library,Tuesday,11 AM,IT,36,27,400,Low
+371,Computer Lab,Monday,2 PM,IT,120,80,200,Medium
+372,Seminar Hall,Tuesday,4 PM,MECH,48,66,150,Low
+373,Computer Lab,Tuesday,12 PM,IT,104,90,200,Medium
+374,Computer Lab,Friday,11 AM,MECH,98,87,200,Medium
+375,Wifi Zone,Wednesday,1 PM,CSE,427,412,600,Medium
+376,Wifi Zone,Wednesday,1 PM,MECH,587,601,600,High
+377,Library,Wednesday,9 AM,MECH,213,208,400,Medium
+378,Computer Lab,Thursday,11 AM,IT,119,133,200,Medium
+379,Classroom,Saturday,11 AM,IT,47,44,80,Medium
+380,Seminar Hall,Wednesday,5 PM,ECE,71,44,150,Medium
+381,Canteen,Saturday,12 PM,MBA,268,264,500,Medium
+382,Canteen,Tuesday,10 AM,IT,278,299,500,Medium
+383,Library,Monday,10 AM,ECE,294,285,400,High
+384,Computer Lab,Monday,10 AM,ECE,103,81,200,Medium
+385,Wifi Zone,Friday,5 PM,CSE,233,196,600,Low
+386,Library,Friday,2 PM,IT,327,332,400,High
+387,Library,Thursday,11 AM,CIVIL,59,79,400,Low
+388,Library,Friday,5 PM,CSE,44,36,400,Low
+389,Computer Lab,Saturday,1 PM,ECE,169,180,200,High
+390,Library,Friday,4 PM,IT,185,175,400,Medium
+391,Library,Friday,11 AM,CSE,37,53,400,Low
+392,Canteen,Monday,3 PM,CSE,86,93,500,Low
+393,Classroom,Friday,10 AM,CSE,63,85,80,High
+394,Computer Lab,Thursday,12 PM,CIVIL,54,42,200,Low
+395,Seminar Hall,Monday,12 PM,MECH,16,15,150,Low
+396,Canteen,Thursday,12 PM,CIVIL,99,104,500,Low
+397,Canteen,Thursday,4 PM,ECE,180,187,500,Low
+398,Wifi Zone,Friday,1 PM,IT,567,565,600,High
+399,Library,Tuesday,1 PM,ECE,216,208,400,Medium
+400,Wifi Zone,Saturday,12 PM,MBA,27,26,600,Low
+401,Library,Saturday,5 PM,ECE,123,126,400,Medium
+402,Canteen,Saturday,2 PM,CSE,483,504,500,High
+403,Seminar Hall,Tuesday,3 PM,MBA,39,26,150,Low
+404,Computer Lab,Thursday,1 PM,IT,175,197,200,High
+405,Library,Monday,4 PM,CSE,107,129,400,Low
+406,Computer Lab,Tuesday,10 AM,ECE,120,87,200,Medium
+407,Canteen,Wednesday,11 AM,ECE,82,72,500,Low
+408,Computer Lab,Tuesday,11 AM,MBA,96,96,200,Medium
+409,Wifi Zone,Saturday,4 PM,MECH,200,215,600,Low
+410,Computer Lab,Monday,11 AM,MBA,54,78,200,Low
+411,Canteen,Tuesday,10 AM,MECH,384,348,500,High
+412,Classroom,Thursday,5 PM,MECH,15,35,80,Low
+413,Library,Monday,1 PM,MBA,328,335,400,High
+414,Canteen,Saturday,10 AM,MECH,373,345,500,High
+415,Seminar Hall,Thursday,9 AM,ECE,28,5,150,Low
+416,Classroom,Thursday,5 PM,CSE,28,38,80,High
+417,Wifi Zone,Tuesday,9 AM,CSE,122,98,600,Low
+418,Seminar Hall,Friday,10 AM,CIVIL,78,85,150,Medium
+419,Computer Lab,Wednesday,9 AM,MECH,43,26,200,Low
+420,Canteen,Friday,2 PM,ECE,341,353,500,Medium
+421,Classroom,Friday,3 PM,CIVIL,44,16,80,Medium
+422,Seminar Hall,Tuesday,11 AM,CIVIL,75,69,150,Medium
+423,Wifi Zone,Wednesday,12 PM,IT,308,287,600,Medium
+424,Canteen,Wednesday,10 AM,MBA,425,455,500,High
+425,Classroom,Monday,4 PM,MBA,42,24,80,Medium
+426,Wifi Zone,Thursday,3 PM,MECH,264,235,600,High
+427,Seminar Hall,Saturday,4 PM,CSE,28,55,150,Low
+428,Seminar Hall,Monday,10 AM,MECH,81,81,150,Medium
+429,Seminar Hall,Monday,1 PM,ECE,139,156,150,High
+430,Classroom,Monday,10 AM,CIVIL,70,81,80,High
+431,Wifi Zone,Friday,5 PM,MECH,110,113,600,Low
+432,Seminar Hall,Wednesday,11 AM,MBA,41,36,150,Low
+433,Computer Lab,Monday,4 PM,MECH,101,100,200,Low
+434,Classroom,Saturday,2 PM,CIVIL,79,58,80,High
+435,Wifi Zone,Monday,11 AM,CSE,142,136,600,Low
+436,Canteen,Wednesday,11 AM,IT,143,157,500,Low
+437,Wifi Zone,Monday,3 PM,CIVIL,211,241,600,Low
+438,Seminar Hall,Saturday,4 PM,ECE,59,44,150,Medium
+439,Seminar Hall,Tuesday,12 PM,MBA,89,104,150,Medium
+440,Classroom,Thursday,2 PM,CIVIL,57,64,80,Medium
+441,Wifi Zone,Monday,2 PM,MECH,327,354,600,Medium
+442,Classroom,Friday,1 PM,CIVIL,43,31,80,Medium
+443,Computer Lab,Friday,4 PM,CSE,14,32,200,Low
+444,Classroom,Monday,4 PM,MBA,43,42,80,Medium
+445,Classroom,Wednesday,12 PM,CIVIL,30,10,80,Low
+446,Library,Wednesday,1 PM,IT,363,325,400,High
+447,Seminar Hall,Tuesday,4 PM,CSE,25,1,150,Low
+448,Wifi Zone,Thursday,5 PM,MBA,266,264,600,Medium
+449,Seminar Hall,Monday,5 PM,CSE,34,41,150,Low
+450,Library,Friday,11 AM,ECE,151,147,400,Low
+451,Classroom,Saturday,2 PM,MECH,42,65,80,Medium
+452,Seminar Hall,Monday,4 PM,ECE,42,65,150,Low
+453,Library,Wednesday,4 PM,MBA,167,141,400,Medium
+454,Seminar Hall,Thursday,12 PM,CIVIL,40,18,150,Medium
+455,Computer Lab,Monday,4 PM,CIVIL,12,7,200,Low
+456,Wifi Zone,Thursday,10 AM,ECE,425,393,600,High
+457,Canteen,Saturday,10 AM,MECH,327,355,500,Medium
+458,Wifi Zone,Friday,3 PM,MBA,214,220,600,Low
+459,Library,Saturday,1 PM,CIVIL,253,237,400,Medium
+460,Computer Lab,Thursday,3 PM,MECH,37,65,200,Low
+461,Canteen,Friday,10 AM,CIVIL,438,408,500,High
+462,Classroom,Thursday,3 PM,MBA,42,21,80,Medium
+463,Library,Saturday,12 PM,MECH,68,40,400,Low
+464,Wifi Zone,Wednesday,12 PM,IT,53,14,600,Low
+465,Wifi Zone,Wednesday,3 PM,CSE,223,209,600,Low
+466,Canteen,Monday,3 PM,ECE,213,205,500,Medium
+467,Computer Lab,Saturday,3 PM,CSE,73,97,200,Low
+468,Wifi Zone,Thursday,10 AM,IT,473,457,600,High
+469,Canteen,Wednesday,5 PM,CIVIL,288,298,500,Medium
+470,Computer Lab,Friday,2 PM,MBA,165,193,200,High
+471,Classroom,Wednesday,5 PM,CIVIL,30,39,80,Low
+472,Seminar Hall,Saturday,4 PM,MECH,63,75,150,Medium
+473,Library,Thursday,4 PM,IT,152,126,400,Low
+474,Canteen,Wednesday,3 PM,CSE,48,77,500,Low
+475,Wifi Zone,Tuesday,2 PM,ECE,494,489,600,High
+476,Classroom,Friday,5 PM,CSE,44,27,80,Medium
+477,Seminar Hall,Tuesday,1 PM,MBA,106,110,150,High
+478,Library,Monday,9 AM,MBA,58,55,400,Medium
+479,Wifi Zone,Friday,9 AM,MBA,159,147,600,Low
+480,Wifi Zone,Wednesday,2 PM,MECH,411,381,600,Medium
+481,Library,Thursday,1 PM,IT,329,314,400,High
+482,Computer Lab,Friday,2 PM,ECE,182,169,200,High
+483,Seminar Hall,Tuesday,11 AM,IT,31,1,150,Low
+484,Wifi Zone,Wednesday,12 PM,MECH,125,94,600,Low
+485,Computer Lab,Thursday,9 AM,MBA,105,127,200,Medium
+486,Wifi Zone,Friday,9 AM,CSE,175,200,600,Low
+487,Seminar Hall,Friday,5 PM,CIVIL,18,35,150,Low
+488,Wifi Zone,Friday,11 AM,IT,149,174,600,Low
+489,Wifi Zone,Saturday,2 PM,CSE,539,533,600,High
+490,Library,Wednesday,12 PM,MECH,10,9,400,Low
+491,Canteen,Wednesday,9 AM,CSE,196,187,500,Low
+492,Computer Lab,Wednesday,11 AM,CSE,30,48,200,Low
+493,Classroom,Tuesday,1 PM,IT,79,53,80,High
+494,Classroom,Tuesday,3 PM,CIVIL,33,13,80,Medium
+495,Classroom,Friday,5 PM,ECE,28,56,80,Low
+496,Seminar Hall,Monday,9 AM,IT,68,62,150,Medium
+497,Canteen,Friday,4 PM,MBA,200,172,500,Medium
+498,Classroom,Friday,12 PM,IT,22,43,80,Low
+499,Classroom,Wednesday,5 PM,CIVIL,42,33,80,High
+500,Classroom,Wednesday,10 AM,IT,47,76,80,Medium
+501,Seminar Hall,Saturday,10 AM,CIVIL,146,121,150,High
+502,Classroom,Friday,9 AM,IT,21,43,80,Low
+503,Computer Lab,Saturday,4 PM,ECE,67,28,200,Low
+504,Classroom,Saturday,9 AM,CSE,24,27,80,Low
+505,Computer Lab,Wednesday,2 PM,ECE,171,135,200,High
+506,Wifi Zone,Tuesday,1 PM,ECE,414,423,600,Low
+507,Wifi Zone,Saturday,11 AM,ECE,334,361,600,Medium
+508,Seminar Hall,Saturday,2 PM,MECH,98,88,150,Medium
+509,Classroom,Monday,9 AM,IT,29,10,80,Low
+510,Wifi Zone,Wednesday,3 PM,MBA,341,348,600,Medium
+511,Wifi Zone,Monday,12 PM,IT,152,148,600,Low
+512,Wifi Zone,Monday,10 AM,MECH,395,395,600,Medium
+513,Wifi Zone,Saturday,10 AM,MBA,496,486,600,High
+514,Library,Thursday,4 PM,IT,108,123,400,Low
+515,Library,Monday,9 AM,MECH,165,148,400,Medium
+516,Seminar Hall,Tuesday,11 AM,ECE,74,103,150,Medium
+517,Wifi Zone,Friday,12 PM,CIVIL,107,75,600,Low
+518,Library,Friday,9 AM,ECE,58,39,400,Low
+519,Seminar Hall,Friday,3 PM,MBA,30,14,150,Low
+520,Library,Wednesday,10 AM,ECE,270,280,400,Medium
+521,Library,Tuesday,3 PM,ECE,32,57,400,Low
+522,Canteen,Friday,9 AM,IT,67,68,500,Low
+523,Computer Lab,Thursday,10 AM,CIVIL,125,146,200,Medium
+524,Computer Lab,Monday,11 AM,IT,111,93,200,Medium
+525,Seminar Hall,Friday,5 PM,CSE,59,89,150,Low
+526,Library,Friday,9 AM,ECE,216,204,400,Medium
+527,Seminar Hall,Friday,3 PM,MECH,79,73,150,Medium
+528,Computer Lab,Tuesday,3 PM,MBA,57,74,200,Low
+529,Library,Wednesday,1 PM,MECH,274,273,400,Medium
+530,Library,Saturday,11 AM,MBA,110,97,400,Low
+531,Library,Friday,10 AM,MBA,306,290,400,High
+532,Wifi Zone,Friday,1 PM,ECE,547,543,600,High
+533,Computer Lab,Wednesday,3 PM,CIVIL,82,101,200,Medium
+534,Wifi Zone,Monday,3 PM,MBA,306,301,600,Medium
+535,Classroom,Thursday,12 PM,MECH,38,65,80,Medium
+536,Canteen,Friday,12 PM,IT,144,149,500,Low
+537,Classroom,Wednesday,9 AM,CSE,10,40,80,Low
+538,Wifi Zone,Wednesday,4 PM,IT,336,363,600,Medium
+539,Wifi Zone,Tuesday,4 PM,ECE,247,217,600,Medium
+540,Seminar Hall,Wednesday,2 PM,IT,125,125,150,High
+541,Wifi Zone,Thursday,5 PM,MBA,326,337,600,Medium
+542,Wifi Zone,Tuesday,11 AM,IT,316,326,600,Medium
+543,Seminar Hall,Thursday,11 AM,IT,34,19,150,Low
+544,Library,Wednesday,10 AM,CSE,235,207,400,Medium
+545,Canteen,Saturday,1 PM,IT,366,349,500,High
+546,Library,Saturday,9 AM,CIVIL,68,86,400,Medium
+547,Library,Tuesday,5 PM,MECH,42,61,400,Low
+548,Canteen,Monday,2 PM,MBA,416,399,500,High
+549,Classroom,Saturday,12 PM,CSE,44,33,80,Medium
+550,Canteen,Saturday,3 PM,CIVIL,118,147,500,Low
+551,Canteen,Thursday,5 PM,ECE,271,267,500,Low
+552,Canteen,Friday,2 PM,MBA,274,267,500,Medium
+553,Classroom,Friday,3 PM,MECH,35,4,80,Medium
+554,Wifi Zone,Thursday,2 PM,CSE,360,385,600,Medium
+555,Classroom,Monday,11 AM,CIVIL,19,8,80,Low
+556,Computer Lab,Thursday,1 PM,MECH,147,128,200,High
+557,Computer Lab,Saturday,9 AM,CSE,31,0,200,Low
+558,Computer Lab,Tuesday,10 AM,MBA,193,215,200,High
+559,Computer Lab,Tuesday,2 PM,CIVIL,123,147,200,Medium
+560,Library,Wednesday,11 AM,CIVIL,209,230,400,Medium
+561,Library,Saturday,2 PM,CIVIL,302,306,400,High
+562,Classroom,Tuesday,4 PM,CIVIL,29,20,80,Low
+563,Computer Lab,Saturday,10 AM,CIVIL,120,92,200,Medium
+564,Canteen,Monday,3 PM,CSE,268,268,500,Medium
+565,Classroom,Friday,5 PM,MECH,25,34,80,Low
+566,Canteen,Tuesday,1 PM,ECE,336,313,500,Medium
+567,Wifi Zone,Tuesday,4 PM,CSE,70,35,600,Low
+568,Computer Lab,Tuesday,3 PM,CIVIL,118,86,200,Medium
+569,Canteen,Monday,11 AM,ECE,136,150,500,Low
+570,Classroom,Friday,5 PM,IT,48,23,80,Medium
+571,Wifi Zone,Wednesday,3 PM,MECH,73,71,600,Low
+572,Canteen,Friday,1 PM,MBA,423,434,500,High
+573,Seminar Hall,Saturday,9 AM,MECH,59,49,150,Low
+574,Computer Lab,Wednesday,3 PM,MBA,24,36,200,Low
+575,Classroom,Saturday,10 AM,IT,56,24,80,High
+576,Library,Wednesday,4 PM,ECE,214,207,400,Medium
+577,Canteen,Wednesday,4 PM,CSE,117,106,500,Low
+578,Library,Monday,3 PM,CSE,31,5,400,Low
+579,Seminar Hall,Friday,4 PM,MECH,50,76,150,Low
+580,Seminar Hall,Wednesday,1 PM,ECE,121,136,150,High
+581,Wifi Zone,Monday,11 AM,IT,345,363,600,Medium
+582,Computer Lab,Thursday,11 AM,MECH,50,43,200,Low
+583,Library,Thursday,9 AM,CIVIL,43,33,400,Low
+584,Computer Lab,Friday,5 PM,CIVIL,113,78,200,Medium
+585,Wifi Zone,Friday,4 PM,CSE,84,108,600,Low
+586,Canteen,Monday,4 PM,ECE,248,257,500,Medium
+587,Canteen,Saturday,2 PM,CSE,466,454,500,High
+588,Library,Thursday,5 PM,CIVIL,33,36,400,Low
+589,Canteen,Saturday,11 AM,CIVIL,178,142,500,Low
+590,Seminar Hall,Thursday,9 AM,MECH,17,8,150,Low
+591,Classroom,Tuesday,5 PM,IT,47,15,80,Low
+592,Wifi Zone,Thursday,11 AM,CIVIL,348,322,600,Medium
+593,Seminar Hall,Friday,12 PM,MBA,25,9,150,Low
+594,Computer Lab,Monday,9 AM,CIVIL,117,131,200,Medium
+595,Library,Tuesday,1 PM,MBA,384,346,400,High
+596,Seminar Hall,Thursday,9 AM,CIVIL,57,29,150,Low
+597,Wifi Zone,Wednesday,11 AM,ECE,33,17,600,Low
+598,Library,Friday,10 AM,CIVIL,371,373,400,High
+599,Library,Monday,2 PM,ECE,294,310,400,High
+600,Computer Lab,Monday,3 PM,MECH,32,39,200,Low
+601,Library,Thursday,12 PM,ECE,195,215,400,Medium
+602,Seminar Hall,Wednesday,4 PM,CSE,48,73,150,Low
+603,Canteen,Monday,4 PM,CSE,144,166,500,Low
+604,Classroom,Wednesday,5 PM,CSE,20,8,80,Low
+605,Computer Lab,Monday,4 PM,MECH,66,87,200,Low
+606,Wifi Zone,Wednesday,12 PM,CSE,222,187,600,High
+607,Canteen,Wednesday,3 PM,CIVIL,49,26,500,Low
+608,Computer Lab,Thursday,2 PM,CIVIL,129,96,200,Medium
+609,Library,Wednesday,3 PM,MECH,149,142,400,Low
+610,Classroom,Friday,1 PM,MECH,41,13,80,Medium
+611,Canteen,Friday,4 PM,CIVIL,57,53,500,Low
+612,Library,Wednesday,1 PM,ECE,229,229,400,High
+613,Classroom,Monday,9 AM,MECH,10,10,80,Medium
+614,Seminar Hall,Friday,4 PM,CSE,54,35,150,Low
+615,Classroom,Thursday,11 AM,MBA,29,0,80,Low
+616,Classroom,Friday,5 PM,CSE,44,68,80,Medium
+617,Computer Lab,Thursday,9 AM,IT,31,27,200,Low
+618,Seminar Hall,Monday,1 PM,CIVIL,75,63,150,Medium
+619,Wifi Zone,Thursday,1 PM,CSE,509,480,600,High
+620,Library,Friday,5 PM,CSE,18,20,400,Low
+621,Computer Lab,Monday,3 PM,CIVIL,25,9,200,Low
+622,Wifi Zone,Friday,10 AM,ECE,470,451,600,High
+623,Seminar Hall,Friday,3 PM,ECE,86,77,150,Medium
+624,Wifi Zone,Friday,12 PM,MBA,135,140,600,Low
+625,Wifi Zone,Thursday,2 PM,MBA,450,441,600,High
+626,Computer Lab,Monday,12 PM,MBA,117,142,200,Medium
+627,Library,Tuesday,10 AM,CSE,267,227,400,Medium
+628,Canteen,Saturday,4 PM,ECE,189,154,500,Low
+629,Classroom,Friday,2 PM,MBA,80,93,80,High
+630,Computer Lab,Tuesday,12 PM,MBA,24,50,200,Low
+631,Seminar Hall,Saturday,2 PM,IT,84,107,150,Low
+632,Classroom,Saturday,4 PM,CSE,47,20,80,Medium
+633,Computer Lab,Saturday,2 PM,MBA,155,138,200,Low
+634,Seminar Hall,Saturday,3 PM,CIVIL,36,47,150,Low
+635,Wifi Zone,Friday,10 AM,ECE,301,281,600,Medium
+636,Computer Lab,Tuesday,12 PM,CIVIL,114,127,200,Medium
+637,Library,Saturday,11 AM,MBA,88,96,400,Low
+638,Canteen,Saturday,10 AM,MECH,419,443,500,High
+639,Classroom,Monday,4 PM,IT,41,62,80,Medium
+640,Seminar Hall,Thursday,9 AM,IT,88,97,150,Medium
+641,Classroom,Wednesday,2 PM,CSE,40,29,80,Medium
+642,Seminar Hall,Friday,12 PM,CSE,86,90,150,Medium
+643,Wifi Zone,Thursday,9 AM,IT,176,162,600,Low
+644,Classroom,Thursday,2 PM,MECH,44,62,80,Medium
+645,Wifi Zone,Thursday,10 AM,CSE,561,537,600,High
+646,Library,Wednesday,12 PM,IT,145,137,400,Low
+647,Library,Friday,1 PM,CIVIL,376,369,400,High
+648,Classroom,Friday,1 PM,MBA,74,59,80,High
+649,Canteen,Wednesday,11 AM,MECH,203,226,500,Medium
+650,Computer Lab,Saturday,10 AM,IT,199,209,200,High
